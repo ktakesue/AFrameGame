@@ -1,2 +1,2 @@
 # AFrameGame
-A game made with the threeJS framework
+A game made with the AFrameGame framework

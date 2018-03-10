@@ -6,6 +6,8 @@ A game made using the A-Frame web framework
 + 10 minutes of yoga
 
 ### Installation
++ Fork and Clone Repo
++ Navigate to the folder containing your repo
 + Navigate to terminal
 + Install live-server
 ```

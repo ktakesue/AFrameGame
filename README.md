@@ -1,5 +1,5 @@
-# AFrameGame
-A game made with the AFrameGame framework
+# A-Frame Game
+A game made using the A-Frame web framework
 
 ##Getting Started
 blah blah blah

@@ -5,9 +5,9 @@ A game made using the A-Frame web framework
 blah blah blah
 
 ### Installation
-+ Install live-server: `npm install -g live-server`
++ Install live-server
 ```
-example on how to do a thing
+`npm install -g live-server`
 ```
 
 ## Built With
